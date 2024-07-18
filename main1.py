@@ -20,5 +20,5 @@ for i in numbers_:
     else:
         not_primes.append(i)
 
-print(primes)
-print(not_primes)
+print(primes) # [2, 3, 5, 7, 11, 13]
+print(not_primes) # [4, 6, 8, 9, 10, 12, 14, 15]
